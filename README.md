@@ -1,16 +1,11 @@
-# flutter_tests
+# Objective
+- Project to practice how to write unit testing in Flutter
 
-A new Flutter project.
+## Structure
+- Project is separated by modules. The tests folder use the same structure of app as well
 
-## Getting Started
+## How to run tests
 
-This project is a starting point for a Flutter application.
+in your project root folder terminal paste this to run products tests: ```flutter test .\test\app\modules\product\product.dart```
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
